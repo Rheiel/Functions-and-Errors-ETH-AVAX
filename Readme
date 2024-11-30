@@ -1,0 +1,16 @@
+Daily Task Reward System
+This smart contract provides a decentralized system for tracking daily tasks and rewarding users with points for completing them. Users can create tasks, mark them as completed, earn points, and redeem those points once a threshold is met.
+
+Add tasks with a name and description.
+Complete tasks and earn reward points within a specified completion window (1 day).
+Redeem points once a certain threshold (30 points) is reached.
+Remove tasks if needed.
+Track the total points balance and view all tasks.
+This contract is designed for users who want to manage their daily goals and be rewarded for task completion.
+
+Features
+Task Creation: Users can add tasks with a name and description.
+Task Completion: Completing a task within 24 hours rewards the user with points.
+Point Redemption: Points can be redeemed once the user accumulates enough points (at least 30).
+Task Removal: Users can remove tasks they no longer want to track.
+Tracking Points and Tasks: Users can view their total points and the list of tasks they've created.
